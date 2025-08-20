@@ -1,2 +1,2 @@
 # react-redux-zustand
-Application create to practice Redux &amp; Zustand
+Application created to practice Redux &amp; Zustand
